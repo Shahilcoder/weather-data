@@ -1,0 +1,14 @@
+html { scroll-behavior: smooth; }
+
+#nav-weather {
+    height: 600px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#nav-cities {
+    position: relative;
+    height: 600px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
